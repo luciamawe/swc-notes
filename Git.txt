@@ -2,4 +2,3 @@ Git
 ====
 
 - Playing with multiple levels. 
-- Test edit
