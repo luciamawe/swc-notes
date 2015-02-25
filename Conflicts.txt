@@ -3,3 +3,5 @@ Conflicts
 
 Represented by <<<<<<<<< or >>>>>>>>>>> =========
 You need to remove them by hand and then change the text. 
+
+Test conflicting edit
