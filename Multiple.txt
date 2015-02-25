@@ -1,3 +1,5 @@
 Multiple files
 ==============
 
+- git add 
+- git commit 
