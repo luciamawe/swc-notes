@@ -8,5 +8,3 @@ Multiple files
 - This will open Vim as the default text editor to accept changes, which you do with ":wq"
 - git diff NAMEOFCOMMIT will print out what has been added or deleted from that original files
 - Important: this leaves an audit trail of a mistake that was made 
-
-- MISTAKE IN THIS LINE THAT I WANT TO DELETE. 
