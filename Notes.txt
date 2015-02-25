@@ -1,1 +1,12 @@
 Notes for Software Carpentry Course
+
+Computing based research is verifiable research
+
+Git
+- online notes in: http://development.rc.ucl.ac.uk/training/engineering/session02/00git.html
+- will track files in the folder
+- git commit -m: log message in quotes to describe what you have done
+- you need to configure your details and email
+
+- git log: to see notes
+- git status: to see current state of the current working directory
