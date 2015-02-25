@@ -3,3 +3,8 @@ Multiple files
 
 - git add 
 - git commit 
+
+- Each commit logs what change you made. You want to identify it with a hashcode to be able to revert in the future. 
+- This will open Vim as the default text editor to accept changes, which you do with ":wq"
+- git diff NAMEOFCOMMIT will print out what has been added or deleted from that original files
+- Important: this leaves an audit trail of a mistake that was made 
