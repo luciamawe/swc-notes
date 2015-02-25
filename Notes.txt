@@ -1,4 +1,5 @@
 Notes for Software Carpentry Course
+===================================
 
 Computing based research is verifiable research
 
@@ -10,3 +11,7 @@ Git
 
 - git log: to see notes
 - git status: to see current state of the current working directory
+- git commit -am: shortcut to add many changes avoiding the staging area
+- at this point, still no internet back up
+
+- trying to create conflict
